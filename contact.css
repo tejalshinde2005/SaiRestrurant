@@ -1,0 +1,29 @@
+.img11{
+    height:400px; 
+    width:500px; 
+}
+.img12{
+    height:250px;
+    width:300px;
+    background-color: hsl(332, 41%, 92%);
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: solid 5px  hsl(335, 80%, 90%);
+    box-shadow: -6px 6px 15px 3px black;
+}
+.img12:hover{
+    border: solid 5px  hsl(337, 80%, 90%);
+    transition: 1s;
+    background-color: white;
+    box-shadow: -6px 6px 15px 3px hsl(331, 71%, 77%);
+}
+
+.text2{
+    font-size: 30px;
+    font-family: copse;
+}
+.text3{
+    font-size: 25px;
+    font-family: dancing script;
+    color:#172c66;
+}
